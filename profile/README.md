@@ -24,9 +24,9 @@ We seek to empower developers to code, grow, connect, and enjoy the journey.
 
 ## How to get started as a developer on Celo ?
 
-1. **Start with basics** - Understand blockchain technology by going through resources like [this](https://docs.soliditylang.org/en/v0.8.24/)
+1. **Start with basics** - Understand blockchain technology by going through resources like [This](https://docs.soliditylang.org/en/v0.8.24/)
 2. **Learn about Celo** - Start by understanding how Celo works through documentation available at [Here](https://docs.celo.org/)
-3. **Start with Solidity basics** - Start by familiarizing yourself with the  basics of smart contract development in Solidity you can find resources like [this here](https://solidity-by-example.org/)
+3. **Start with Solidity basics** - Start by familiarizing yourself with the  basics of smart contract development in Solidity you can find resources like [This here](https://solidity-by-example.org/)
 4. **Celo Composer** - with Celo Composer Boilerplate [Here](https://github.com/celo-org/celo-composer)
 5. **Celo GitHub** - Check out the Celo GitHub [Link Here](https://github.com/celo-org)
 
